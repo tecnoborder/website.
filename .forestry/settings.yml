@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Root
   create: all
-  match: "/*"
+  match: https://github.com/tecnoborder/website.
 - type: heading
   label: Content
 - type: directory
