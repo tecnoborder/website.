@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Twitter",
+      "url": "",
+      "external": ""
+    },
+    {
       "text": "Home",
       "url": "/",
       "external": false
